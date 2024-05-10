@@ -1,0 +1,113 @@
+body{
+    background-color: rgba(97, 179, 200, 0.773) !important;
+   padding: 4px;
+   border-radius: 3px;
+   border-color: #1a6430c0 !important;
+   margin: 2px;
+}
+nav{
+    background-color: rgba(63, 109, 82, 0.792);
+    border-radius: 10px;
+    text-align: center;
+    padding: 2px;
+    margin: 4px;
+}
+header{
+    color:  rgb(237, 230, 23);
+    background-color: rgba(159, 27, 58, 0.807) !important;
+    text-align: center;
+   font-size: 20px;
+   padding: 1px;
+   border-radius: 8px;
+   margin: 4px;
+   font-style: italic;
+   text-shadow: 4px 3px 1px black,
+   2px 3px 1px;
+}
+a:hover{
+    color: #1a6430c0;
+    cursor: pointer;
+}
+a{
+    color: #1c3752;
+    font-style: italic;
+}
+h2{
+    color: rgb(121, 73, 6);
+    background-color: rgba(63, 109, 82, 0.792) !important;
+    text-align: center;
+    padding: 8px;
+    border-radius: 6px;
+}
+.start{
+    img{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 30%;
+    border: 1px solid #ddd;
+    border-radius: 4px;
+    padding: 5px;
+    width: 200px;
+    border-color: rgb(219, 13, 75);
+    border-radius: 10px;
+    margin-top: 10px;
+    }
+}
+img{
+    display: block;
+          margin-left: 90%;
+           margin-top: -140px;
+          width: 30%;
+          border: 1px solid #ddd;
+          border-radius: 4px;
+          padding: 5px;
+          width: 120px;
+          border-color: rgb(228, 8, 45);
+          border-radius: 10px;
+}
+p{
+    color: rgb(163, 46, 46);
+    padding-left: 15px;
+    font-size: 17px;
+}
+p#name{
+      font-size: 20px;
+        color: rgb(222, 11, 11);
+    padding-left: 15px;
+}
+main{
+  
+    background-color: #ad7cb2c0;
+    padding: 8px;
+    border-radius: 5px;
+    margin: 4px;
+}
+footer{
+    background-color: #208c41c0;
+    text-align: center;
+    padding: 4px;  
+    border-radius: 5px;
+    margin: 4px;
+}
+.goto{
+    font-size: large;
+    color: rgb(11, 11, 11);
+    font-weight: bold;
+}
+li{
+    color: #4f1a6a;
+    padding: 2px;
+    font-size:17px ;
+}
+.logo img{
+    /* clip-path: circle(35% at 50% 50%); */
+     margin-left: 310px;
+    margin-block: 2px;
+     border-radius: 100px;
+     margin-bottom: -60px;
+    width: 100px;
+    border-color: rgb(21, 147, 124);
+    
+}
+
